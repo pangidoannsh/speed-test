@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "fast-speedtest-api": "^0.3.2",
+    "network-speed": "^2.1.1",
+    "speed-test": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "fast": "node fast.js"
+  }
+}
